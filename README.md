@@ -1,3 +1,3 @@
 # Oh Snap
-# 🚧 Currently under construction 👷‍♀️
+# 🚧 Readme Currently under construction 👷‍♀️
 https://gabriellenoelle.github.io/ohsnap/
