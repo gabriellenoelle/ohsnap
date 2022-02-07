@@ -1,2 +1,2 @@
-# react-portfolio
-https://gabriellenoelle.github.io/react-portfolio/
+# Oh Snap
+https://gabriellenoelle.github.io/ohsnap/
